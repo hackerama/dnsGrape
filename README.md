@@ -1,3 +1,3 @@
 # dnsGrape
 Multimethod dns and directory scanner
-## Author: Carlos Néri Correia
+### Author: Carlos Néri Correia
