@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: 
+# Author: Carlos Néri Correia
 b="$1"
 
 red='\033[0;31m'
